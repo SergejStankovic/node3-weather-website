@@ -1,5 +1,3 @@
-console.log('Client side javascript file is loaded!')
-
 // fetch('https://api.mapbox.com/geocoding/v5/mapbox.places/boston.json?access_token=pk.eyJ1Ijoic2VyZ2Vqc3RhbmtvdmljIiwiYSI6ImNsNW53b3B0NjE4MWIzY25tNnMwcXRnanEifQ.1rfuZgbUqFzJGsEMsHHLGw&limit=1').then((response) => {
 //     response.json().then((data) => {
 //         // console.log(data['features'][0]['center'][0])
